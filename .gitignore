@@ -1,0 +1,23 @@
+# Compiled executables
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
